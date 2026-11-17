@@ -110,8 +110,6 @@ pytest
 - PostgreSQL database and online deployment
 
 ## Team
+-Shivam Meena==2025KUAD3028
 
-- [Your Name] - [Roll No]
-- [Partner Name] - [Roll No]
-
-Guide: [Professor Name]
+Guide: [Pooja Sharma]
